@@ -1,6 +1,6 @@
 Project Name - HR Metrics and Attrition Data Analysis
 
-Tools Used - PowerBI, MSExcel, MySQL, Python
+Tools Used - PowerBI, MSExcel, MySQL, Python(Jupyter Notebook)
 
 Description:
 Created HR dashboards tracking attrition, average age, and headcount across 5+ departments and locations.
